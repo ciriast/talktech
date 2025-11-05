@@ -3,4 +3,7 @@ Un sistema CRM recopila datos de diferentes canales (ventas, servicio al cliente
 
 De esta forma se logra tener una mejor capacidad para ofrecer atencion personalidaza para incrementar la satisfaccion y las ventas
 
-Hicimos una implementacion de un CRM a entidad financiera, ayudo a centralizar la informacion de todos los clientes, facilito poder ofrecerles una mejor atencion de acuerdo a las preferencias que ya habiamos recopilado
+Hicimos una implementacion de un CRM a una entidad financiera, ayudo a centralizar la informacion de todos los clientes, facilito poder ofrecerles una mejor atencion de acuerdo a las preferencias que ya habiamos recopilado
+
+Ofrecer promociones personalizadas
+campanas de marketing destinadas a cierto tipo de cliente
